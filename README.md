@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 
 
 - 🔭 Interested in Cybersecurity
 - 🌱 I’m currently learning C, Python, JavaScript
